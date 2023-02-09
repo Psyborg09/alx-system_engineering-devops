@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u-rwe;chmod g-rwe;chmod o+rwe
+chmod 007
