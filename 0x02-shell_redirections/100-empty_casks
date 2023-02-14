@@ -1,0 +1,1 @@
+find . -type f -empty -or -type d -empty
